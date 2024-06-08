@@ -1,0 +1,6 @@
+################
+
+
+yum update -y
+
+cat /redhat-release
