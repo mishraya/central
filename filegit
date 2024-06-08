@@ -1,6 +1,5 @@
-################
+############
 
+uname -r
 
-yum update -y
-
-cat /redhat-release
+systemctl restart rsyslog
